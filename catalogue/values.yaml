@@ -1,0 +1,3 @@
+deployment:
+  imageRepo: peruripramod/catalogue
+  imageVersion: v1
