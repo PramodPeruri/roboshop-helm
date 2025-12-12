@@ -1,2 +1,5 @@
 configmap:
    mongoURL: "mongodb://mongodb:27017/catalogue"
+deployment:
+  imageRepo: peruripramod/catalogue
+  imageVersion: v1
