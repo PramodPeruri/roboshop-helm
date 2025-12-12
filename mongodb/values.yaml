@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: peruirpramod/mongodb
+  imageVersion: v1
+service:
+   type: ClusterIP
